@@ -135,7 +135,6 @@ public class EasyLevel extends Fragment {
             }
         }.start();
 
-
         rootView.setFocusableInTouchMode(true);
         rootView.requestFocus();
         rootView.setOnKeyListener(new View.OnKeyListener() {
